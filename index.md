@@ -3,7 +3,7 @@
 ---
 
 ### Personal Projects
-<br><br>
+
 
 ### [1. Krishok- An IoT Based Intelligent farming solution]
 <br><br>
@@ -13,14 +13,14 @@ An IoT based farming solution to grow a better number of crops with better quali
 Tools and Technologies: CNN, ML, Raspberry PI, Sensors.
 ---
 
-[2. Handwritten Digit recognition]
+### [2. Handwritten Digit recognition]
 <br><br>
 Description: A Handwritten Digit recongnition system using Using Convolutional Neural Network (CNN) and MNIST handwritten database used here.
 <br><br>
 Tools and Technologies:CNN, Keras, Numpy.
 ---
 
-[3. Antique Shop Website]
+### [3. Antique Shop Website]
 <br><br>
 Description:
 An online shop to sell and buy Antique items. Both buyer and seller will have a account and they can post their antiuqe items to sell or buy.
@@ -29,7 +29,7 @@ An online shop to sell and buy Antique items. Both buyer and seller will have a 
 Tools and Technologies: Django, PHP, HTML, JavaScript.
 ---
 
-[4. Online Pharmacy]
+### [4. Online Pharmacy]
 <br><br>
 Description:
 An online shop to buy medicine while from Home.
@@ -38,7 +38,7 @@ An online shop to buy medicine while from Home.
 Tools and Technologies: Django, PHP, BootStrap, HTML.
 ---
 
-[5. Early Detection of Glaucoma Using Fuzzy Logic in Bangladesh Context]
+### [5. Early Detection of Glaucoma Using Fuzzy Logic in Bangladesh Context]
 <br><br>
 Description:
 An AI based automated system in Bangladesh which can detect Glaucoma as early as possible using patients data.
@@ -46,7 +46,7 @@ An AI based automated system in Bangladesh which can detect Glaucoma as early as
 Tools and Technologies: AI, FuzzyLogic, Matlab
 ---
 
-[6. Resource Observer]
+### [6. Resource Observer]
 <br><br>
 Description:
 An android Based apps which observes other apps while accessing mobile resources like Camera, Gallary etc and sends a notification to user. 
@@ -54,7 +54,7 @@ An android Based apps which observes other apps while accessing mobile resources
 Tools and Technologies: Android studio, Java 
 ---
 
-[7. Wedding management]
+### [7. Wedding management]
 <br><br>
 Description:
 A website that control whole wedding system which selects wedding place, catering, transportations etc.
