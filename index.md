@@ -41,7 +41,7 @@ Tools and Technologies:CNN, Keras, Numpy.
 ### [3. Antique Shop Website]
 <br><br>
 Description:
-An online shop to sell and buy Antique items. Both buyer and seller will have a account and they can post their antiuqe items to sell or buy.
+An online shop to sell and buy Antique items. Both buyer and seller will have a account and they can post their antique items to sell or buy.
 
 <br><br>
 Tools and Technologies: Django, PHP, HTML, JavaScript.
