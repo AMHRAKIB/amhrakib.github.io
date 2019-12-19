@@ -4,7 +4,7 @@
 
 ### Personal Projects
 
-[Krishok- An IoT Based Intelligent farming solution](/sample_page)
+[1. Krishok- An IoT Based Intelligent farming solution]()
 <br><br>
 Description : 
 An IoT based farming solution to grow a better number of crops with better quality and uses CNN to detect crops disease, predict rainfall of the whole country and gives weather reports of current farming lands.
@@ -12,28 +12,51 @@ An IoT based farming solution to grow a better number of crops with better quali
 Tools and Technologies: CNN, ML, Raspberry PI, Sensors.
 ---
 
-[Handwritten Digit recognition](/sample_page)
+[2. Handwritten Digit recognition]()
+<br><br>
+Description: A Handwritten Digit recongnition system using Using Convolutional Neural Network (CNN) and MNIST handwritten database used here.
+
+Tools and Technologies:CNN, Keras, Numpy
+---
+[3.]()
+
 <br><br>
 Description:
 
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+Tools and Technologies:
 ---
 
-### Category Name 2
+[4.]()
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<br><br>
+Description:
 
+Tools and Technologies:
 ---
 
+[5.]()
 
+<br><br>
+Description:
+
+Tools and Technologies:
+---
+
+[6.]()
+
+<br><br>
+Description:
+
+Tools and Technologies:
+---
+
+[7.]()
+
+<br><br>
+Description:
+
+Tools and Technologies:
+---
 
 
 ---
