@@ -1,11 +1,12 @@
-## Portfolio
+
 
 ---
 
-### Category Name 1 
+### Personal Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Krishok- An IoT Based Intelligent farming solution](/sample_page)
+Description :
+An IoT based farming solution to grow a better number of crops with better quality and uses CNN to detect crops disease, predict rainfall of the whole country and gives weather reports of current farming lands.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
