@@ -12,13 +12,13 @@ An IoT based farming solution to grow a better number of crops with better quali
 Tools and Technologies: CNN, ML, Raspberry PI, Sensors.
 ---
 
-[2. Handwritten Digit recognition]()
+[2. Handwritten Digit recognition](/sample_page)
 <br><br>
 Description: A Handwritten Digit recongnition system using Using Convolutional Neural Network (CNN) and MNIST handwritten database used here.
 
 Tools and Technologies:CNN, Keras, Numpy
 ---
-[3.]()
+[3.Antique Shop WebsiteAntique Shop Website](/sample_page)
 
 <br><br>
 Description:
@@ -26,7 +26,7 @@ Description:
 Tools and Technologies:
 ---
 
-[4.]()
+[4.Online Pharmacy](/sample_page/sample_page)
 
 <br><br>
 Description:
@@ -34,7 +34,7 @@ Description:
 Tools and Technologies:
 ---
 
-[5.]()
+[5.Early Detection of Glaucoma Using Fuzzy Logic in Bangladesh Context](/sample_page)
 
 <br><br>
 Description:
@@ -42,7 +42,7 @@ Description:
 Tools and Technologies:
 ---
 
-[6.]()
+[6.Resource Observer](/sample_page)
 
 <br><br>
 Description:
@@ -50,7 +50,7 @@ Description:
 Tools and Technologies:
 ---
 
-[7.]()
+[7.Wedding management](/sample_page)
 
 <br><br>
 Description:
