@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Al Mahadi Hasan Rakib # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi, I am Al Mahadi Hasan Rakib. I've almost 5 years of hands-on experience in computer programming. I am capable of working in under pressure and my main motive is to bring out the best outcome of my capabilities.
+  
   <br><br>
-  Second description 
+  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/amh-rakib">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
