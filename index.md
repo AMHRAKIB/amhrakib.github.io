@@ -15,52 +15,50 @@ Tools and Technologies: CNN, ML, Raspberry PI, Sensors.
 [2. Handwritten Digit recognition]
 <br><br>
 Description: A Handwritten Digit recongnition system using Using Convolutional Neural Network (CNN) and MNIST handwritten database used here.
-
+<br><br>
 Tools and Technologies:CNN, Keras, Numpy
 ---
-[3. Antique Shop WebsiteAntique Shop Website]
-
+[3. Antique Shop Website]
 <br><br>
 Description:
+An online shop to sell and buy Antique items. Both buyer and seller will have a account and they can post their antiuqe items to sell or buy.
 
 <br><br>
-Tools and Technologies:
+Tools and Technologies: Django, PHP, HTML, JavaScript.
 ---
 
 [4. Online Pharmacy]
-
 <br><br>
 Description:
+An online shop to buy medicine while from Home.
 
 <br><br>
-Tools and Technologies:
+Tools and Technologies: Django, PHP, BootStrap, HTML.
 ---
 
 [5. Early Detection of Glaucoma Using Fuzzy Logic in Bangladesh Context]
-
 <br><br>
 Description:
-
+An AI based automated system in Bangladesh which can detect Glaucoma as early as possible using patients data.
 <br><br>
-Tools and Technologies:
+Tools and Technologies: AI, FuzzyLogic, Matlab
 ---
 
 [6. Resource Observer]
-
 <br><br>
 Description:
-
+An android Based apps which observes other apps while accessing mobile resources like Camera, Gallary etc and sends a notification to user. 
 <br><br>
-Tools and Technologies:
+Tools and Technologies: Android studio, Java 
 ---
 
 [7. Wedding management]
-
 <br><br>
 Description:
+A website that control whole wedding system which selects wedding place, catering, transportations etc.
 
 <br><br>
-Tools and Technologies:
+Tools and Technologies: PHP, HTML, Codeigniter
 ---
 
 
