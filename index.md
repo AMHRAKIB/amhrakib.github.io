@@ -11,7 +11,8 @@ An IoT based farming solution to grow a better number of crops with better quali
 <br><br>
 Tools and Technologies: CNN, ML, Raspberry PI, Sensors.
 ---
-[Handwritten Digit recognition](/pdf/sample_presentation.pdf)
+
+[Handwritten Digit recognition](/sample_page)
 <br><br>
 Description:
 
