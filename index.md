@@ -6,7 +6,15 @@
 3. S.S.C (Science)        <br>
  Ibn Taimiya School and College, Comilla            2009-2011 <br>
 ---
+### Technical Skills
+Programming Languages -- C, C++, Java, Python, JavaScript <br>
+Web Technologies -- Django, Bootstrap, HTML, PHP, CSS <br>
+DataBase -- SQL, SQLite <br>
+Others- Git, Github, MS Office <br>
 
+
+
+---
 ### Personal Projects
 
 
