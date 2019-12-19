@@ -4,7 +4,7 @@
 
 ### Personal Projects
 
-[1. Krishok- An IoT Based Intelligent farming solution]
+<b>[1. Krishok- An IoT Based Intelligent farming solution]<b>
 <br><br>
 Description : 
 An IoT based farming solution to grow a better number of crops with better quality and uses CNN to detect crops disease, predict rainfall of the whole country and gives weather reports of current farming lands.
@@ -56,10 +56,8 @@ Tools and Technologies: Android studio, Java
 <br><br>
 Description:
 A website that control whole wedding system which selects wedding place, catering, transportations etc.
-
 <br><br>
 Tools and Technologies: PHP, HTML, Codeigniter
----
 
 
 ---
