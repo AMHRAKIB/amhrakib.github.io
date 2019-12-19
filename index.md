@@ -6,12 +6,15 @@
 
 [Krishok- An IoT Based Intelligent farming solution](/sample_page)
 <br><br>
-description : >
+Description : 
 An IoT based farming solution to grow a better number of crops with better quality and uses CNN to detect crops disease, predict rainfall of the whole country and gives weather reports of current farming lands.
-
+<br><br>
+Tools and Technologies: CNN, ML, Raspberry PI, Sensors.
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Handwritten Digit recognition](/pdf/sample_presentation.pdf)
+<br><br>
+Description:
+
 
 ---
 [Project 3 Title](http://example.com/)
