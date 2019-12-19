@@ -5,7 +5,12 @@
  Govt. Science College, Dhaka                       July, 2011- February, 2013 <br> 
 3. S.S.C (Science)        <br>
  Ibn Taimiya School and College, Comilla            2009-2011 <br>
+ 
+ 
+ 
 ---
+
+
 ### Technical Skills
 Programming Languages -- C, C++, Java, Python, JavaScript <br>
 Web Technologies -- Django, Bootstrap, HTML, PHP, CSS <br>
