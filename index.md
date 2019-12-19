@@ -23,6 +23,7 @@ Tools and Technologies:CNN, Keras, Numpy
 <br><br>
 Description:
 
+<br><br>
 Tools and Technologies:
 ---
 
@@ -31,6 +32,7 @@ Tools and Technologies:
 <br><br>
 Description:
 
+<br><br>
 Tools and Technologies:
 ---
 
@@ -39,6 +41,7 @@ Tools and Technologies:
 <br><br>
 Description:
 
+<br><br>
 Tools and Technologies:
 ---
 
@@ -47,6 +50,7 @@ Tools and Technologies:
 <br><br>
 Description:
 
+<br><br>
 Tools and Technologies:
 ---
 
@@ -55,6 +59,7 @@ Tools and Technologies:
 <br><br>
 Description:
 
+<br><br>
 Tools and Technologies:
 ---
 
