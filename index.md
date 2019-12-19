@@ -1,4 +1,8 @@
-
+### Education 
+1. Bachelor of Science in Computer Science and Engineering <br>
+ North Sounth University, Dhaka                     January, 2015- November, 2019 <br>
+2. Secondary High School Certificate (Science) <br>
+ Govt. Science College, Dhaka                       July, 2011- February, 2013 <br> 
 
 ---
 
